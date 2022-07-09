@@ -1,4 +1,5 @@
 [workspace]
 members = [
-    "tuple-trait",
+	"tuple-trait",
+	"bitmap",
 ]
